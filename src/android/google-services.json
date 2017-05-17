@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511797399080",
+    "firebase_url": "https://stargame-31459249.firebaseio.com",
+    "project_id": "stargame-31459249",
+    "storage_bucket": "stargame-31459249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511797399080:android:51b30303d82e0c85",
+        "android_client_info": {
+          "package_name": "ca.stargame.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511797399080-tcid3g6c6tvcbghqj2s019mekqrvp4hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5x2DM2F0sdVrcF3Yl1-7uuZHyZMoxHcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511797399080-tcid3g6c6tvcbghqj2s019mekqrvp4hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
