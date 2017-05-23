@@ -61,6 +61,15 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework src="com.google.firebase:firebase-messaging:+" />
 		<framework src="com.google.firebase:firebase-crash:+" />
 		<framework src="com.google.firebase:firebase-config:+" />
+		
+		
+		   <config-file parent="/resources" target="res/values/strings.xml">
+		       <string name="google_app_id">@string/1:511797399080:android:51b30303d82e0c85</string>
+		   </config-file>
+		   <config-file parent="/resources" target="res/values/strings.xml">
+		       <string name="google_api_key">@string/AIzaSyD5x2DM2F0sdVrcF3Yl1-7uuZHyZMoxHcc</string>
+		   </config-file>      
+		
 	</platform>
 
 	<platform name="ios">
@@ -97,6 +106,15 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework custom="true" src="src/ios/Firebase/Messaging/FirebaseMessaging.framework" />
 		<framework custom="true" src="src/ios/Firebase/Crash/FirebaseCrash.framework" />
 		<framework custom="true" src="src/ios/Firebase/RemoteConfig/FirebaseRemoteConfig.framework" />
+		
+		
+		<config-file parent="/resources" target="res/values/strings.xml">
+		       <string name="google_app_id">@string/1:511797399080:android:51b30303d82e0c85</string>
+		   </config-file>
+		   <config-file parent="/resources" target="res/values/strings.xml">
+		       <string name="google_api_key">@string/AIzaSyD5x2DM2F0sdVrcF3Yl1-7uuZHyZMoxHcc</string>
+		   </config-file>      
+		
 	</platform>
 
 	<platform name="browser">
