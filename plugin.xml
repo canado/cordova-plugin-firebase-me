@@ -20,18 +20,14 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 				<param name="onload" value="true" />
 			</feature>
 		</config-file>
-		<!--<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">@string/google_app_id</string>
-		</config-file>
-		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_api_key">@string/google_api_key</string>
-		</config-file>-->
-		    <config-file parent="/resources" target="res/values/strings.xml">
-		       <string name="google_app_id">@string/stargame-31459249</string>
+		
+		   <config-file parent="/resources" target="res/values/strings.xml">
+		       <string name="google_app_id">@string/1:511797399080:android:51b30303d82e0c85</string>
 		   </config-file>
 		   <config-file parent="/resources" target="res/values/strings.xml">
 		       <string name="google_api_key">@string/AIzaSyD5x2DM2F0sdVrcF3Yl1-7uuZHyZMoxHcc</string>
-		   </config-file>
+		   </config-file>      
+		
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />
 				<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -63,12 +59,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<framework src="com.google.firebase:firebase-config:+" />
 		
 		
-		   <config-file parent="/resources" target="res/values/strings.xml">
-		       <string name="google_app_id">@string/1:511797399080:android:51b30303d82e0c85</string>
-		   </config-file>
-		   <config-file parent="/resources" target="res/values/strings.xml">
-		       <string name="google_api_key">@string/AIzaSyD5x2DM2F0sdVrcF3Yl1-7uuZHyZMoxHcc</string>
-		   </config-file>      
+		
 		
 	</platform>
 
