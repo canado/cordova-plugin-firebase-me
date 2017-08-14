@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "511797399080",
-    "firebase_url": "https://stargame-31459249.firebaseio.com",
-    "project_id": "stargame-31459249",
-    "storage_bucket": "stargame-31459249.appspot.com"
+    "project_number": "70150091643",
+    "firebase_url": "https://metroexit-v2.firebaseio.com",
+    "project_id": "metroexit-v2",
+    "storage_bucket": "metroexit-v2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:511797399080:android:51b30303d82e0c85",
+        "mobilesdk_app_id": "1:70150091643:android:43f3523333568cce",
         "android_client_info": {
-          "package_name": "ca.stargame.app"
+          "package_name": "me.metroexit"
         }
       },
       "oauth_client": [
         {
-          "client_id": "511797399080-tcid3g6c6tvcbghqj2s019mekqrvp4hr.apps.googleusercontent.com",
+          "client_id": "70150091643-jlmuuc25md7pe9duc3l1ont7ebu62bmb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD5x2DM2F0sdVrcF3Yl1-7uuZHyZMoxHcc"
+          "current_key": "AIzaSyAR_HM7SKud0SaLRruuRBBb8hKAdKoan8A"
         }
       ],
       "services": {
@@ -32,7 +32,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "511797399080-tcid3g6c6tvcbghqj2s019mekqrvp4hr.apps.googleusercontent.com",
+              "client_id": "70150091643-jlmuuc25md7pe9duc3l1ont7ebu62bmb.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
