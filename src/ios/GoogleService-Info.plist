@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>511797399080-ddslsnq3ja20s8dnseahit51ir3s7h1m.apps.googleusercontent.com</string>
+	<string>70150091643-95oanm6746s6ir6cba87omdshi6aafrg.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.511797399080-ddslsnq3ja20s8dnseahit51ir3s7h1m</string>
+	<string>com.googleusercontent.apps.70150091643-95oanm6746s6ir6cba87omdshi6aafrg</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCBeGphqcnYRYBH9v1_UBo43_IIbjr6008</string>
+	<string>AIzaSyC-au3Kce-uRIKIonBLQxZjUiDAwkn-pQQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>511797399080</string>
+	<string>70150091643</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>ca.stargame.app</string>
+	<string>me.metroexit</string>
 	<key>PROJECT_ID</key>
-	<string>stargame-31459249</string>
+	<string>metroexit-v2</string>
 	<key>STORAGE_BUCKET</key>
-	<string>stargame-31459249.appspot.com</string>
+	<string>metroexit-v2.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:511797399080:ios:51b30303d82e0c85</string>
+	<string>1:70150091643:ios:43f3523333568cce</string>
 	<key>DATABASE_URL</key>
-	<string>https://stargame-31459249.firebaseio.com</string>
+	<string>https://metroexit-v2.firebaseio.com</string>
 </dict>
 </plist>
