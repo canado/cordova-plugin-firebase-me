@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:70150091643:android:43f3523333568cce",
+        "mobilesdk_app_id": "1:70150091643:android:69967d3d0ebbda78",
         "android_client_info": {
-          "package_name": "me.metroexit"
+          "package_name": "me.metroexit.app"
         }
       },
       "oauth_client": [
