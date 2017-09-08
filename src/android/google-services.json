@@ -16,6 +16,14 @@
       "oauth_client": [
         {
           "client_id": "70150091643-lj1brcohqcgmsghj4ji0dbo3mol25v9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.metroexit.app",
+            "certificate_hash": "ffe9439a854af79e7a77a52689e511bcaeafd87a"
+          }
+        },
+        {
+          "client_id": "70150091643-jlmuuc25md7pe9duc3l1ont7ebu62bmb.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
@@ -34,6 +42,13 @@
             {
               "client_id": "70150091643-jlmuuc25md7pe9duc3l1ont7ebu62bmb.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "70150091643-6s10ul3kbag4re785ech3iionabv6h84.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.metroexit.app"
+              }
             }
           ]
         },
