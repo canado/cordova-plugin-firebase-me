@@ -8,20 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:70150091643:android:69967d3d0ebbda78",
+        "mobilesdk_app_id": "1:70150091643:android:e31d1aa5dee92da3",
         "android_client_info": {
-          "package_name": "me.metroexit.app"
+          "package_name": "me.metroexit.app2"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "70150091643-lj1brcohqcgmsghj4ji0dbo3mol25v9q.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "me.metroexit.app",
-            "certificate_hash": "ffe9439a854af79e7a77a52689e511bcaeafd87a"
-          }
-        },
         {
           "client_id": "70150091643-jlmuuc25md7pe9duc3l1ont7ebu62bmb.apps.googleusercontent.com",
           "client_type": 3
@@ -37,20 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "70150091643-jlmuuc25md7pe9duc3l1ont7ebu62bmb.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "70150091643-6s10ul3kbag4re785ech3iionabv6h84.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "me.metroexit.app"
-              }
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
